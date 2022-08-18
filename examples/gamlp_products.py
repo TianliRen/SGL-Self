@@ -1,5 +1,4 @@
 import argparse
-
 from sgl.dataset import Ogbn
 from sgl.models.homo import GAMLP
 from sgl.tasks import NodeClassification
